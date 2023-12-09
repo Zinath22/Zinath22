@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zinath22&theme=darcula)](https://git.io/streak-stats)
  
 
- <div>
+ <div align ="center">
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height = "40" />
 
