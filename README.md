@@ -1,9 +1,9 @@
-### Hi there 👋
+# Overview
 
-<!--
-**Zinath22/Zinath22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zinath22&theme=darcula)](https://git.io/streak-stats)
+ 
 
-Here are some ideas to get you started:
+## Current Status
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
