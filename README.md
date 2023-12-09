@@ -8,7 +8,7 @@
   <img height="350" src="https://github-readme-streak-stats.herokuapp.com?user=Zinath22&theme=darcula" />
 </div>
 
-##
+## Skills 
  
  <div align ="center">
  
