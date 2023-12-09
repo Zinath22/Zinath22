@@ -1,6 +1,4 @@
-# Overview
 
-[![GitHub Streak]()](https://git.io/streak-stats)
  <div >
   <img width='full' height = '' src="assest/Blue Modern Gradient Technology LinkedIn Banner.png" />
 </div>
@@ -10,6 +8,8 @@
   <img height="350" src="https://github-readme-streak-stats.herokuapp.com?user=Zinath22&theme=darcula" />
 </div>
 
+##
+ 
  <div align ="center">
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height = "40" />
